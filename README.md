@@ -10,3 +10,5 @@ add recursiveMultiply solution
 add non-recursive fibonacci solution
 
 add recursive fibonacci solution
+
+add array solutions
