@@ -1,1 +1,3 @@
-# toy-problem-log
+Commits:
+
+add recursiveMultiply single negative solution
