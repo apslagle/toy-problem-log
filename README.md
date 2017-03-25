@@ -11,4 +11,6 @@ add non-recursive fibonacci solution
 
 add recursive fibonacci solution
 
-add array solutions
+add javascript array solutions
+
+add array methods except robotpaths
