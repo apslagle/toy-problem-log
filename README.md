@@ -16,3 +16,5 @@ add javascript array solutions
 add array methods except robotpaths
 
 technical interview Parkifi
+
+technical phone screen SpotX
