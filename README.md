@@ -14,3 +14,5 @@ add recursive fibonacci solution
 add javascript array solutions
 
 add array methods except robotpaths
+
+technical interview Parkifi
